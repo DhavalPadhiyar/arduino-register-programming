@@ -11,20 +11,20 @@ using **ATmega328P register-level programming**.
 
 ## Projects Included
 
-### 🔹 Basic GPIO
+### Basic GPIO
 - Inbuilt LED Blink
 - Seven Segment Display
 
-### 🔹 Display & Output
+### Display & Output
 - 16×2 LCD Interfacing
 - Relay Interfacing
 
-### 🔹 Timers & Interrupts
+### Timers & Interrupts
 - External Interrupts
 - Timer0 / Timer1
 - PWM Generation
 
-### 🔹 Communication Protocols
+###  Communication Protocols
 - UART
 - I²C
 
