@@ -1,7 +1,7 @@
 # Bare-Metal Arduino Projects
 
 ## Overview
-This repository contains **bare-metal embedded projects** on Arduino UNO R3  
+I have implimanted **bare-metal embedded projects** on Arduino UNO R3  
 using **ATmega328P register-level programming**.
 
 ## Platform & Tools
